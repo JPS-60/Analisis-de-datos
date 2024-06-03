@@ -1,0 +1,21 @@
+*Descripçión de las tablas:
+
+La tabla contiene 10 columnas, las cuales son y significan:
+country: Pais
+iso3: Es una abreviacion de cada pais con 3 letras.
+year: Año de muerte
+month: Mes de muerte
+sex: Sexo (Femenino o Masculino).
+age_group: Grupo de edad por intervalos(0 a 24, 25 a 34, 35 a 44, ..., 85 o más).
+type: Tipo de estimación para determinado año y mes (reportado o previsto)
+expected.mean: Media de muertes esperadas (valor esperado teórico) por todas las causas por ubicación, año y mes.
+acm.mean: Media de muertes estimadas (basado en datos reales recopilados) por todas las causas por ubicación, año y mes.
+excess.mean*: Media de muertes en exceso asociadas con la pandemia de COVID-19 por todas las causas por ubicación, año y mes.
+
+
+*Tema de investigación: 
+Muertes en exceso globales asociadas con COVID-19
+
+
+*Link de donde se extrajo los datos:
+https://www.who.int/data/sets/global-excess-deaths-associated-with-covid-19-modelled-estimates 
